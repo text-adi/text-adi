@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+-------
+#### List of projects in GitHub worth looking at:
+
+* [ansible-playbook](https://github.com/text-adi/ansible-playbook)
+* [vagrant-scripts](https://github.com/text-adi/vagrant-scripts)
+
 <!--
 **text-adi/text-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
