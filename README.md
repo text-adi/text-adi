@@ -8,6 +8,7 @@
 
 #### Github Action:
 * [build-language-i18n-action](https://github.com/text-adi/build-language-i18n-action)
+* [minifier-compressor-html-action](https://github.com/text-adi/minifier-compressor-html-action)
  
 #### Tools:
 * [aws-kubectl](https://github.com/text-adi/aws-kubectl)
