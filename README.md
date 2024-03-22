@@ -4,7 +4,6 @@
 #### List of projects in GitHub worth looking at:
 
 * [ansible-playbook](https://github.com/text-adi/ansible-playbook)
-* [vagrant-scripts](https://github.com/text-adi/vagrant-scripts)
 
 #### Github Action:
 * [build-language-i18n-action](https://github.com/text-adi/build-language-i18n-action)
