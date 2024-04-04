@@ -11,6 +11,7 @@
  
 #### Tools:
 * [aws-kubectl](https://github.com/text-adi/aws-kubectl)
+* [ecr-registry-helper](https://github.com/text-adi/ecr-registry-helper)
 
 <!--
 **text-adi/text-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
