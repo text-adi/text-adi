@@ -13,6 +13,9 @@
 * [aws-kubectl](https://github.com/text-adi/aws-kubectl)
 * [ecr-registry-helper](https://github.com/text-adi/ecr-registry-helper)
 
+#### Another
+* [helm-charts](https://github.com/text-adi/helm-charts)
+
 <!--
 **text-adi/text-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
