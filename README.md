@@ -4,6 +4,7 @@
 #### List of projects in GitHub worth looking at:
 
 * [ansible-playbook](https://github.com/text-adi/ansible-playbook)
+* [helm-charts](https://github.com/text-adi/helm-charts)
 
 #### Github Action:
 * [build-language-i18n-action](https://github.com/text-adi/build-language-i18n-action)
@@ -13,8 +14,6 @@
 * [aws-kubectl](https://github.com/text-adi/aws-kubectl)
 * [ecr-registry-helper](https://github.com/text-adi/ecr-registry-helper)
 
-#### Another
-* [helm-charts](https://github.com/text-adi/helm-charts)
 
 <!--
 **text-adi/text-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
