@@ -12,7 +12,6 @@
  
 #### Tools:
 * [kubectl](https://github.com/text-adi/kubectl)
-* [aws-cli](https://github.com/text-adi/aws-cli)
 * [aws-kubectl](https://github.com/text-adi/aws-kubectl)
 * [ecr-registry-helper](https://github.com/text-adi/ecr-registry-helper)
 
