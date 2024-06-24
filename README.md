@@ -6,6 +6,9 @@
 * [ansible-playbook](https://github.com/text-adi/ansible-playbook)
 * [helm-charts](https://github.com/text-adi/helm-charts)
 
+#### Github Workflows:
+* [workflows](https://github.com/text-adi/workflows)
+
 #### Github Action:
 * [build-language-i18n-action](https://github.com/text-adi/build-language-i18n-action)
 * [minifier-compressor-html-action](https://github.com/text-adi/minifier-compressor-html-action)
