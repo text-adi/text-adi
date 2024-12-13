@@ -11,13 +11,14 @@
 
 #### Github Action:
 * [build-language-i18n-action](https://github.com/text-adi/build-language-i18n-action)
-* [minifier-compressor-html-action](https://github.com/text-adi/minifier-compressor-html-action)
  
 #### Tools:
 * [kubectl](https://github.com/text-adi/kubectl)
 * [aws-kubectl](https://github.com/text-adi/aws-kubectl)
 * [ecr-registry-helper](https://github.com/text-adi/ecr-registry-helper)
 
+#### Digital Ocean
+* [digital-ocean-fuctions-auto-scale](https://github.com/text-adi/digital-ocean-fuctions-auto-scale)
 
 <!--
 **text-adi/text-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
