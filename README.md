@@ -1,8 +1,13 @@
+[![wakatime](https://wakatime.com/badge/user/0c22afa1-c7bf-43ff-80ce-0dca3ffa57e7.svg)](https://wakatime.com/@0c22afa1-c7bf-43ff-80ce-0dca3ffa57e7)
+
+
 ### Hi there 👋
 
 -------
 #### List of projects in GitHub worth looking at:
 
+* [k8s-cluster-personal](https://github.com/text-adi/k8s-cluster-personal)
+* [k8s-cluster-infrastructure](https://github.com/text-adi/k8s-cluster-infrastructure)
 * [ansible-playbook](https://github.com/text-adi/ansible-playbook)
 * [helm-charts](https://github.com/text-adi/helm-charts)
 
